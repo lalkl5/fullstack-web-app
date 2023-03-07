@@ -4,7 +4,7 @@ function myFunction() {
 document.getElementById("myButton").addEventListener("click", function() {
     window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ", "_blank");
 });
-var socket = new WebSocket("ws://192.168.88.254:8080/ws");
+var socket = new WebSocket("ws://188.235.122.214:228/ws");
 var userName = null;
 
 socket.onopen = function(event) {
