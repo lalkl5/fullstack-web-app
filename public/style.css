@@ -7,20 +7,12 @@ body {
 }
 
 h1 {
-<<<<<<< HEAD
-    color: #e4158e;
-=======
     color: green;
->>>>>>> 4039b08 (prod)
     font-size: 32px;
 }
 
 p {
-<<<<<<< HEAD
-    color: #ff0000;
-=======
     color: black;
->>>>>>> 4039b08 (prod)
 
 }
 #myButton {
@@ -37,12 +29,6 @@ p {
     max-width: 50px;
     height: auto;
 }
-<<<<<<< HEAD
-#message-container {
-    background-color: rgba(211, 123, 123, 0.384); /* transparent */
-
-}
-=======
 
 #message-container {
   background-color: #f2f2f2;
@@ -55,4 +41,3 @@ p {
 }
 
 
->>>>>>> 4039b08 (prod)
