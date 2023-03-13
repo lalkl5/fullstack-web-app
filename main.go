@@ -30,8 +30,13 @@ func main() {
 	})
 
 	// Listen on port 8080
+<<<<<<< HEAD
 	log.Println("Listening on :228...")
 	err := http.ListenAndServe(":228", nil)
+=======
+	log.Println("Listening on :80...")
+	err := http.ListenAndServe(":80", nil)
+>>>>>>> 4039b08 (prod)
 	if err != nil {
 		log.Fatal(err)
 	}
